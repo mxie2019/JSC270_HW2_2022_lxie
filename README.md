@@ -1,0 +1,2 @@
+# JSC270_HW2_2022_lxie
+JSC270 HW2 PartI
